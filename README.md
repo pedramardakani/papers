@@ -6,6 +6,12 @@ Please refer to ["publications"][publications] page on my blog for more details 
 
 I did not put more here since git is not the best place to keep binary `pdf` files.
 
+# A Hybrid VLC/RF Parking Automation System
+
+A. Madahian, P. A. Ardakani, J. Abouei, A. Mirvakili, A. Mohammadi and V. Koomson, "A Hybrid VLC/RF Parking Automation System," in IEEE Access, vol. 11, pp. 66960-66978, 2023, doi: 10.1109/ACCESS.2023.3290847.
+keywords: {Modulation;Visible light communication;Symbols;Lighting;Logic gates;Location awareness;Wireless communication;Visible light communication (VLC);parking automation system;VLC-based two factor authentication (V2FA);visible light payment system (VLPS);digital pulse interval modulation (DPIM);ParkLight software package;vehicular communications},
+
+
 # Study and optimization of confocal circular multipass absorption cells
 
 Abstract: The optimization of circular multipass absorption cells used in Laser Absorption Spectroscopy has been studied in this paper. In this case, segmented confocal circular multipass cells were selected and parameters related to measurement sensitivity, cell dimensions and optical stability of the cell towards vibrations and mechanical tensions were studied. Investigating intensity profile of output beam using wave-optics approach, indicates the advantages of utilizing segmented circular multipass cells.
